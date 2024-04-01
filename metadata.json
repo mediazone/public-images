@@ -1,0 +1,15 @@
+{
+  "name": "TesToken1",
+  "symbol": "TT1",
+  "description": "Test Token",
+  "image": "https://raw.githubusercontent.com/mediazone/public-images/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/mediazone/public-images/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
